@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fashiononbudget.com/blog-fashiononbudget/sitemap.xml
